@@ -1,4 +1,4 @@
-file = 'mbox-short.txt?utm_source=chatgpt.com'  # fayl adin
+file = 't.txt'  # fayl adin
 
 counts = {}
 with open(file) as f:
