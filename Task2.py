@@ -1,4 +1,4 @@
-file = 'f.txt'
+file = 't.txt'
 counts = {}
 
 with open(file) as f:
